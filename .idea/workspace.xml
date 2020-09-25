@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +58,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android App.app">
+  <component name="RunManager" selected="Android JUnit._2_StartTheGoogleMapsActivity">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -65,6 +69,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
       <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._1_StartTheStoreInformationActivity" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_2_StartTheGoogleMapsActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._2_StartTheGoogleMapsActivity" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -146,6 +166,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
         <item itemvalue="Android JUnit.com in app" />
       </list>
@@ -169,22 +190,22 @@
       <screen x="49" y="27" width="1317" height="711" />
     </state>
     <state x="515" y="94" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/49.27.1317.711@49.27.1317.711" timestamp="1601038777100" />
-    <state width="1271" height="249" key="GridCell.Tab.0.bottom" timestamp="1601038993811">
+    <state width="1271" height="249" key="GridCell.Tab.0.bottom" timestamp="1601039725311">
       <screen x="49" y="27" width="1317" height="711" />
     </state>
-    <state width="1271" height="249" key="GridCell.Tab.0.bottom/49.27.1317.711@49.27.1317.711" timestamp="1601038993811" />
-    <state width="1271" height="249" key="GridCell.Tab.0.center" timestamp="1601038993808">
+    <state width="1271" height="249" key="GridCell.Tab.0.bottom/49.27.1317.711@49.27.1317.711" timestamp="1601039725311" />
+    <state width="1271" height="249" key="GridCell.Tab.0.center" timestamp="1601039725308">
       <screen x="49" y="27" width="1317" height="711" />
     </state>
-    <state width="1271" height="249" key="GridCell.Tab.0.center/49.27.1317.711@49.27.1317.711" timestamp="1601038993808" />
-    <state width="1271" height="249" key="GridCell.Tab.0.left" timestamp="1601038993807">
+    <state width="1271" height="249" key="GridCell.Tab.0.center/49.27.1317.711@49.27.1317.711" timestamp="1601039725308" />
+    <state width="1271" height="249" key="GridCell.Tab.0.left" timestamp="1601039725307">
       <screen x="49" y="27" width="1317" height="711" />
     </state>
-    <state width="1271" height="249" key="GridCell.Tab.0.left/49.27.1317.711@49.27.1317.711" timestamp="1601038993807" />
-    <state width="1271" height="249" key="GridCell.Tab.0.right" timestamp="1601038993809">
+    <state width="1271" height="249" key="GridCell.Tab.0.left/49.27.1317.711@49.27.1317.711" timestamp="1601039725307" />
+    <state width="1271" height="249" key="GridCell.Tab.0.right" timestamp="1601039725310">
       <screen x="49" y="27" width="1317" height="711" />
     </state>
-    <state width="1271" height="249" key="GridCell.Tab.0.right/49.27.1317.711@49.27.1317.711" timestamp="1601038993809" />
+    <state width="1271" height="249" key="GridCell.Tab.0.right/49.27.1317.711@49.27.1317.711" timestamp="1601039725310" />
     <state x="338" y="86" width="729" height="590" key="RollbackChangesDialog" timestamp="1601038229638">
       <screen x="49" y="27" width="1317" height="711" />
     </state>
